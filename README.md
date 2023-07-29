@@ -6,7 +6,9 @@
 ###
 
 
-<img align="right" height="180" src="giphy.gif"  />
+<div align="center">
+  <img height="210" src="giphy.gif"  />
+</div>
 
 ###
 
