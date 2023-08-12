@@ -1,13 +1,11 @@
 <h2 align="left">Hi 👋! My name is Suleiman </h2>
 
 ###
-<h2 align="left">Under construction  </h2>
-
-###
 
 
-<div align="center">
-  <img height="210" src="giphy.gif"  />
+
+<div align="center" >
+  <img height="210" width="100%" src="giphy.gif"  />
 </div>
 
 ###
