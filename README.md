@@ -5,7 +5,7 @@
 
 
 <div align="center" >
-  <img height="210" width="100%" src="giphy.gif"  />
+  <img height="210" width="408" src="assets/giphy.gif"  />
 </div>
 
 ###
