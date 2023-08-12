@@ -2,20 +2,20 @@
 
 ###
 
-
-
-<div align="center" >
-  <img height="100%" width="100%" src="assests/giphy.gif"  />
-</div>
-
-###
-- 👋 Hello, I'm Suleiman Abdulkadir – a DevOps Engineer and versatile Software Engineer.
+- 👋 Hello, I'm Suleiman Abdulkadir – a DevOps Engineer and Generalist Software Engineer.
 - 💻 I specialize in bridging the gap between development and operations to create efficient, scalable systems.
 - 🌐 Passionate about software engineering, I excel in both frontend and backend development.
 - 🗃️ Skilled in database management, ensuring seamless data organization and retrieval.
 - 📱 Experienced in mobile app creation for Android and iOS platforms.
 - ✍️ I'm also a technical writer, sharing insights on frontend, backend, DevOps, database, and app (iOS and Android) development.
 - 🚀 Let's collaborate and innovate together!
+
+
+###
+
+<div align="center" >
+  <img height="100%" width="100%" src="assests/giphy.gif"  />
+</div>
 
 
 ###
