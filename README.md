@@ -8,7 +8,6 @@
 - 🗃️ Skilled in database management, ensuring seamless data organization and retrieval.
 - 📱 Experienced in mobile app creation for Android and iOS platforms.
 - ✍️ I'm also a technical writer, sharing insights on frontend, backend, DevOps, database, and app (iOS and Android) development.
-- 🚀 Let's collaborate and innovate together!
 
 ###
 
