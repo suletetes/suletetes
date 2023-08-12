@@ -1,16 +1,24 @@
-<h2 align="left">Hi 👋! My name is Suleiman </h2>
+<h2 align="left">Hello, I'm Suleiman Abdulkadir </h2>
 
 ###
 
 
 
 <div align="center" >
-  <img height="210" width="408" src="assests/giphy.gif"  />
+  <img height="210" width="80%" src="assests/giphy.gif"  />
 </div>
 
 ###
+- 👋 Hello, I'm Suleiman Abdulkadir – a DevOps Engineer and versatile Software Engineer.
+- 💻 I specialize in bridging the gap between development and operations to create efficient, scalable systems.
+- 🌐 Passionate about software engineering, I excel in both frontend and backend development.
+- 🗃️ Skilled in database management, ensuring seamless data organization and retrieval.
+- 📱 Experienced in mobile app creation for Android and iOS platforms.
+- ✍️ I'm also a technical writer, sharing insights on frontend, backend, DevOps, database, and app (iOS and Android) development.
+- 🚀 Let's collaborate and innovate together!
 
 
+###
 
 <br clear="both">
 
