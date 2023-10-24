@@ -105,7 +105,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/suletetes/count.svg?"  />
+  <!-- <img src="https://profile-counter.glitch.me/suletetes/count.svg?"  /> -->
 </div>
 
 ###
