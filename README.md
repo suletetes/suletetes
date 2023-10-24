@@ -12,7 +12,7 @@
 ###
 
 <div align="center" >
-  <img height="100%" width="100%" src="assests/giphy.gif"  />
+  <img height="100%" width="100%" src="assests/giphy.gif" autoplay />
 </div>
 
 ###
