@@ -1,13 +1,18 @@
-<h1 align="left">👋 Hello, I'm Suleiman Abdulkadir </h1>
+<h1 align="left"> Hi there! 👋 I'm Suleiman.</h1>
 
 ###
 
-- 👋 Hello, I'm Suleiman Abdulkadir – a DevOps Engineer and Generalist Software Engineer.
-- 💻 I specialize in bridging the gap between development and operations to create efficient, scalable systems.
-- 🌐 Passionate about software engineering, I excel in both frontend and backend development.
-- 🗃️ Skilled in database management, ensuring seamless data organization and retrieval.
-- 📱 Experienced in mobile app creation for Android and iOS platforms.
-- ✍️ I'm also a technical writer, sharing insights on frontend, backend, DevOps, database, and app (iOS and Android) development.
+<h1 align="center">🚀 DevOps Engineer | Generalist Software Engineer | Technical Writer </h1>
+
+🔹 **About Me**
+
+[//]: # (- 👋 Hello, I'm Suleiman Abdulkadir – a DevOps Engineer and Generalist Software Engineer.)
+
+- 💻 Bridging the gap between development and operations to build efficient, scalable, and secure systems.
+- 🌐 Full-stack developer, crafting seamless frontend and backend user experiences.
+- 🗃️ Database management, ensuring optimized data storage, retrieval, and security.
+- 📱 Mobile app development, building high-performance Android & iOS applications.
+- ✍️ Technical writer, sharing insights on frontend, backend, DevOps, databases, and mobile development._
 
 ###
 
@@ -19,90 +24,110 @@
 
 <br clear="both">
 
-<h1 align="center"></h2>
-<h3 align="left">DevOps </h3>
+<h1 align="center">🚀 My Tech Stack</h1>
+
+## 🛠 DevOps
+
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-<img width="12" />
- <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</div>
 
 
-<h3 align="left">Web Development </h3>
-<div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+[//]: # (  <img width="12" />)
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="Terraform" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+
+[//]: # (  <img width="12" />)
+
+[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />)
+
+[//]: # (  <img width="12" />)
+
+[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />)
+
+[//]: # (  <img width="12" />)
+
+[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />)
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
 </div>
-<h3 align="left">Application Development </h3>
+
+## 🌐 Web Development
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+
+[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />)
 </div>
-<h3 align="left">Programming Languages</h3>
+
+## 📱 Application Development
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
+</div>
+
+## 💻 Programming Languages
+
+<div align="left">
+
+[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />)
+
+[//]: # (  <img width="12" />)
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+
+[//]: # (  <img width="12" />)
+
+[//]: # (  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />)
+
+[//]: # (  <img width="12">)
+
+
   <img width="12">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
+[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />)
+
 </div>
 
-<h3 align="left">Database Development </h3>
+## 🗄 Database Development
+
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
-
-###
-
-<div align="center">
-  <!-- <img src="https://profile-counter.glitch.me/suletetes/count.svg?"  /> -->
-</div>
-
-###
 
 <br clear="both">
 
