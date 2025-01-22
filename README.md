@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">🚀 DevOps Engineer | Generalist Software Engineer | Technical Writer </h1>
+[//]: # (<h1 align="center">🚀 DevOps Engineer | Generalist Software Engineer | Technical Writer </h1>)
 
 🔹 **About Me**
 
