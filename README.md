@@ -1,12 +1,8 @@
-<h1 align="left"> Hi there! 👋 I'm Suleiman.</h1>
+# Hi there! 👋 I'm Suleiman
 
-###
+---
 
-[//]: # (<h1 align="center">🚀 DevOps Engineer | Generalist Software Engineer | Technical Writer </h1>)
-
-🔹 **About Me**
-
-[//]: # (- 👋 Hello, I'm Suleiman Abdulkadir – a DevOps Engineer and Generalist Software Engineer.)
+## 🔹 **About Me**
 
 - 💻 Bridging the gap between development and operations to build efficient, scalable, and secure systems.
 - 🌐 Full-stack developer, crafting seamless frontend and backend user experiences.
@@ -14,19 +10,17 @@
 - 📱 Mobile app development, building high-performance Android & iOS applications.
 - ✍️ Technical writer, sharing insights on frontend, backend, DevOps, databases, and mobile development.
 
-###
+---
 
-<div align="center" >
-  <img height="100%" width="100%" src="assests/giphy.gif"  />
+<div align="center">
+  <img height="100%" width="100%" src="./assests/giphy.gif" alt="Gif"/>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🚀 **My Tech Stack**
 
-<h1 align="center">🚀 My Tech Stack</h1>
-
-## 🛠 DevOps
+### 🛠 **DevOps**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
@@ -44,17 +38,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-
-[//]: # (  <img width="12" />)
-[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />)
-[//]: # (  <img width="12" />)
-[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />)
-[//]: # (  <img width="12" />)
-[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />)
-
 </div>
 
-## 🌐 Web Development
+---
+
+### 🌐 **Web Development**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -74,11 +62,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-
-[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />)
 </div>
 
-## 📱 Application Development
+---
+
+### 📱 **Application Development**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
@@ -86,29 +74,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
 </div>
 
-## 💻 Programming Languages
+---
+
+### 💻 **Programming Languages**
 
 <div align="left">
-
-[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />)
-[//]: # (  <img width="12" />)
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-
-[//]: # (  <img width="12" />)
-[//]: # (  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />)
-[//]: # (  <img width="12">)
-
-
-  <img width="12">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-
-[//]: # (  <img width="12" />)
-[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />)
-
 </div>
 
-## 🗄 Database Development
+---
+
+### 🗄 **Database Development**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -118,8 +96,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/suletetes/suletetes/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/suletetes/suletetes/output/snake.svg" alt="Snake animation" />
+</div>
