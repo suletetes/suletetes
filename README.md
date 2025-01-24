@@ -4,11 +4,11 @@
 
 ## 🔹 **About Me**
 
+- 📖 Continuous learning is my superpower.
 - 💻 Bridging the gap between development and operations to build efficient, scalable, and secure systems.
 - 🌐 Full-stack developer, crafting seamless frontend and backend user experiences.
 - 🗃️ Database management, ensuring optimized data storage, retrieval, and security.
 - 📱 Mobile app development, building high-performance Android & iOS applications.
-- 📖 Continuous learning is my superpower.
 
 [//]: # (- ✍️ Technical writer, sharing insights on frontend, backend, DevOps, databases, and mobile development.)
 
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  
+
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
   <img width="12" />
