@@ -8,7 +8,8 @@
 - 🌐 Full-stack developer, crafting seamless frontend and backend user experiences.
 - 🗃️ Database management, ensuring optimized data storage, retrieval, and security.
 - 📱 Mobile app development, building high-performance Android & iOS applications.
-- ✍️ Technical writer, sharing insights on frontend, backend, DevOps, databases, and mobile development.
+
+[//]: # (- ✍️ Technical writer, sharing insights on frontend, backend, DevOps, databases, and mobile development.)
 
 ---
 
