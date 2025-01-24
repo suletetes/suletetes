@@ -8,6 +8,7 @@
 - 🌐 Full-stack developer, crafting seamless frontend and backend user experiences.
 - 🗃️ Database management, ensuring optimized data storage, retrieval, and security.
 - 📱 Mobile app development, building high-performance Android & iOS applications.
+- 📖 Continuous learning is my superpower.
 
 [//]: # (- ✍️ Technical writer, sharing insights on frontend, backend, DevOps, databases, and mobile development.)
 
@@ -19,14 +20,21 @@
 
 ---
 
-## 🚀 **My Tech Stack**
+[//]: # (## 🚀 **My Tech Stack** )
+
+<h2 align="center">🚀 <strong>My Tech Stack</strong></h2>
 
 ### 🛠 **DevOps**
 
 <div align="left">
+
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
   <img width="12" />
@@ -36,9 +44,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="Terraform" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+
 </div>
 
 ---
@@ -102,3 +108,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/suletetes/suletetes/output/snake.svg" alt="Snake animation" />
 </div>
+
+[//]: # (👋 Hello! am DevOps Engineer and Software Engineer Generalist focused on scalable solutions and streamlined software development.)
