@@ -1,6 +1,8 @@
-# Suleiman Abdulkadir
+# Hi, I'm Suleiman
 
 **DevOps & Software Engineer | AI & Cybersecurity Enthusiast**
+
+[//]: # (# Suleiman Abdulkadir)
 
 ---
 
