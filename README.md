@@ -138,7 +138,7 @@
 **Expertise:** Database Design, Query Optimization, Data Modeling, Performance Tuning
 </details>
 
----
+<!-- ---
 
 ## Current Focus & Learning
 
@@ -154,7 +154,7 @@
 - Security automation and compliance
 - Serverless architecture and edge computing
 
----
+--- -->
 
 ## GitHub Analytics
 
