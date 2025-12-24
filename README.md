@@ -40,6 +40,8 @@
 <div align="left">
   <img src="./svg/devops/aws.svg" height="40" alt="AWS" title="Amazon Web Services" />
   <img width="12" />
+  <img src="./svg/devops/azure.svg" height="40" alt="Azure" title="Azure" />
+  <img width="12" />
   <img src="./svg/devops/docker.svg" height="40" alt="Docker" title="Docker" />
   <img width="12" />
   <img src="./svg/devops/kubernetes.svg" height="40" alt="Kubernetes" title="Kubernetes" />
@@ -47,10 +49,10 @@
   <img src="./svg/devops/bash.svg" height="40" alt="Bash" title="Bash Scripting" />
   <img width="12" />
   <img src="./svg/devops/jenkins.svg" height="40" alt="Jenkins" title="Jenkins CI/CD" />
-  <!-- <img width="12" />
-  <img src="./svg/devops/ansible.svg" height="40" alt="Ansible" title="Ansible" /> -->
   <img width="12" />
   <img src="./svg/devops/git.svg" height="40" alt="Git" title="Git Version Control" />
+  <img width="12" />
+  <img src="./svg/devops/terraform.svg" height="40" alt="terraform" title="terraform" />
   <img width="12" />
   <img src="./svg/devops/grafana.svg" height="40" alt="Grafana" title="Grafana" />
   <img width="12" />
@@ -72,8 +74,6 @@
   <img src="./svg/programming/c++.svg" height="40" alt="C++" title="C++" />
   <img width="12" />
   <img src="./svg/programming/c.svg" height="40" alt="C" title="C" />
-  <img width="12" />
-  <img src="./svg/programming/go.svg" height="40" alt="Go" title="Go" />
 </div>
 
 **Focus Areas:** Backend Development, System Programming, Automation Scripts, API Development
