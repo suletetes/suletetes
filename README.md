@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="./svg/devops/git.svg" height="40" alt="Git" title="Git Version Control" />
   <img width="12" />
-  <img src="./svg/devops/terraform.svg" height="40" alt="terraform" title="terraform" />
+  <img src="./svg/devops/Terraform.svg" height="40" alt="terraform" title="terraform" />
   <img width="12" />
   <img src="./svg/devops/grafana.svg" height="40" alt="Grafana" title="Grafana" />
   <img width="12" />
