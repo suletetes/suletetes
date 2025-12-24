@@ -15,7 +15,7 @@
 - Building scalable, secure, and automated solutions by bridging development and operations
 - Database design and optimization for high-performance applications
 - Cloud infrastructure deployment and management with AWS expertise
-- Mobile app development (Android & iOS) with modern frameworks
+<!-- - Mobile app development (Android & iOS) with modern frameworks -->
 
 **Current Objectives:**
 - Advancing cloud-native architectures and microservices
@@ -47,8 +47,8 @@
   <img src="./svg/devops/bash.svg" height="40" alt="Bash" title="Bash Scripting" />
   <img width="12" />
   <img src="./svg/devops/jenkins.svg" height="40" alt="Jenkins" title="Jenkins CI/CD" />
-  <img width="12" />
-  <img src="./svg/devops/ansible.svg" height="40" alt="Ansible" title="Ansible" />
+  <!-- <img width="12" />
+  <img src="./svg/devops/ansible.svg" height="40" alt="Ansible" title="Ansible" /> -->
   <img width="12" />
   <img src="./svg/devops/git.svg" height="40" alt="Git" title="Git Version Control" />
   <img width="12" />
@@ -97,8 +97,8 @@
   <img src="./svg/web/nodejs.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
   <img src="./svg/web/boostrap.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img width="12" />
-  <img src="./svg/web/sass.svg" height="40" alt="Sass" title="Sass" />
+  <!-- <img width="12" />
+  <img src="./svg/web/sass.svg" height="40" alt="Sass" title="Sass" /> -->
   <img width="12" />
   <img src="./svg/web/django.svg" height="40" alt="Django" title="Django" />
 </div>
@@ -106,7 +106,7 @@
 **Capabilities:** Full-Stack Development, Responsive Design, Modern Frameworks, RESTful APIs
 </details>
 
-<details>
+<!-- <details>
 <summary><b style="font-size: 18px;">Mobile Development</b></summary>
 <br>
 
@@ -121,7 +121,7 @@
 </div>
 
 **Platforms:** Native Android & iOS Development, Cross-Platform Solutions
-</details>
+</details> -->
 
 <details>
 <summary><b style="font-size: 18px;">Database Technologies</b></summary>
