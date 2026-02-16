@@ -86,8 +86,8 @@
 <div align="left">
   <img src="./svg/web/html.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="./svg/web/css.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
+  <!-- <img src="./svg/web/css.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="12" /> -->
   <img src="./svg/web/js.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
   <img src="./svg/web/ts.svg" height="40" alt="TypeScript" title="TypeScript" />
