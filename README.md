@@ -159,12 +159,25 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suletetes&show_icons=true&hide_title=false&hide_border=true&count_private=true&theme=default&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suletetes&layout=compact&hide_border=true&theme=default&langs_count=8" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suletetes&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suletetes&hide_border=true&theme=default" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suletetes&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suletetes&theme=transparent" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suletetes&theme=transparent&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suletetes&theme=transparent" alt="Repos Per Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suletetes&theme=transparent" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suletetes&theme=transparent" alt="Stats" />
 </div>
 
 ---
