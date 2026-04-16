@@ -40,26 +40,24 @@
 <div align="left">
   <img src="./svg/devops/aws.svg" height="40" alt="AWS" title="Amazon Web Services" />
   <img width="12" />
-  <img src="./svg/devops/azure.svg" height="40" alt="Azure" title="Azure" />
+  <img src="./svg/devops/azure.svg" height="40" alt="Azure" title="Microsoft Azure" />
   <img width="12" />
   <img src="./svg/devops/docker.svg" height="40" alt="Docker" title="Docker" />
   <img width="12" />
   <img src="./svg/devops/kubernetes.svg" height="40" alt="Kubernetes" title="Kubernetes" />
   <img width="12" />
-  <img src="./svg/devops/bash.svg" height="40" alt="Bash" title="Bash Scripting" />
-  <img width="12" />
   <img src="./svg/devops/jenkins.svg" height="40" alt="Jenkins" title="Jenkins CI/CD" />
   <img width="12" />
-  <img src="./svg/devops/git.svg" height="40" alt="Git" title="Git Version Control" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
   <img width="12" />
-  <img src="./svg/devops/Terraform.svg" height="40" alt="terraform" title="terraform" />
+  <img src="./svg/devops/git.svg" height="40" alt="Git" title="Git" />
   <img width="12" />
-  <img src="./svg/devops/grafana.svg" height="40" alt="Grafana" title="Grafana" />
+  <img src="./svg/devops/bash.svg" height="40" alt="Bash" title="Bash Scripting" />
   <img width="12" />
-  <img src="./svg/devops/prometheus.svg" height="40" alt="Prometheus" title="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
 </div>
 
-**Specializations:** Infrastructure as Code, Container Orchestration, CI/CD Pipelines, Monitoring & Observability
+**Specializations:** Infrastructure as Code, Container Orchestration, CI/CD Pipelines, Cloud Architecture
 </details>
 
 <details>
@@ -86,8 +84,8 @@
 <div align="left">
   <img src="./svg/web/html.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <!-- <img src="./svg/web/css.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" /> -->
+  <img src="./svg/web/css.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="12" />
   <img src="./svg/web/js.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
   <img src="./svg/web/ts.svg" height="40" alt="TypeScript" title="TypeScript" />
@@ -96,9 +94,9 @@
   <img width="12" />
   <img src="./svg/web/nodejs.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" title="TailwindCSS" />
+  <img width="12" />
   <img src="./svg/web/boostrap.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  <!-- <img width="12" />
-  <img src="./svg/web/sass.svg" height="40" alt="Sass" title="Sass" /> -->
   <img width="12" />
   <img src="./svg/web/django.svg" height="40" alt="Django" title="Django" />
 </div>
@@ -106,36 +104,51 @@
 **Capabilities:** Full-Stack Development, Responsive Design, Modern Frameworks, RESTful APIs
 </details>
 
-<!-- <details>
-<summary><b style="font-size: 18px;">Mobile Development</b></summary>
+<details>
+<summary><b style="font-size: 18px;">Mobile App Development</b></summary>
 <br>
 
 <div align="left">
-  <img src="./svg/app/android.svg" height="40" alt="Android" title="Android" />
-  <img width="12" />
-  <img src="./svg/app/apple.svg" height="40" alt="iOS" title="iOS" />
-  <img width="12" />
-  <img src="./svg/app/kotlin.svg" height="40" alt="Kotlin" title="Kotlin" />
-  <img width="12" />
-  <img src="./svg/app/swift.svg" height="40" alt="Swift" title="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" title="React Native" />
 </div>
 
-**Platforms:** Native Android & iOS Development, Cross-Platform Solutions
-</details> -->
+**Platforms:** Cross-Platform Mobile Development (React Native)
+</details>
 
 <details>
 <summary><b style="font-size: 18px;">Database Technologies</b></summary>
 <br>
 
 <div align="left">
-  <img src="./svg/database/mysql.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
   <img src="./svg/database/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
+  <img src="./svg/database/mysql.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
   <img src="./svg/database/mongodb.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />
 </div>
 
 **Expertise:** Database Design, Query Optimization, Data Modeling, Performance Tuning
+</details>
+
+<details>
+<summary><b style="font-size: 18px;">Cybersecurity</b></summary>
+<br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" title="Wireshark" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white" height="30" alt="Nmap" title="Nmap" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" title="Burp Suite" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="40" alt="Metasploit" title="Metasploit" />
+</div>
+
+**Focus Areas:** Network Security, Penetration Testing, Vulnerability Assessment, Security Auditing
 </details>
 
 <!-- ---
