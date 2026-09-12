@@ -1,27 +1,27 @@
 # Suleiman Abdulkadir
 
-**DevOps & Software Engineer | AI & Cybersecurity Enthusiast**
+**Software & DevOps Engineer** · AWS infrastructure · CI/CD automation · Full-stack
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suletete)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suleiman.abdulkadir.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://suleimandev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://suleops.dev/)
 
 ---
 
 ## About Me
 
-**Professional Focus:**
-- Continuous learner and problem solver with a passion for innovation
-- Building scalable, secure, and automated solutions by bridging development and operations
-- Database design and optimization for high-performance applications
-- Cloud infrastructure deployment and management with AWS expertise
+**What I do:**
+- Design and ship scalable, secure systems by bridging development and operations
+- Build and automate cloud infrastructure on AWS with CI/CD pipelines and Infrastructure as Code
+- Develop production full-stack applications end to end, from API to interface
+- Design and optimize databases for performance at scale
 <!-- - Mobile app development (Android & iOS) with modern frameworks -->
 
-**Current Objectives:**
-- Advancing cloud-native architectures and microservices
-- Implementing security-first DevOps practices
-- Exploring AI/ML integration in infrastructure automation
-- Contributing to open-source projects and community knowledge
+**Where I'm headed:**
+- Deepening cloud-native and microservices architecture
+- Making security a default, not an afterthought, across the pipeline
+- Applying AI/ML to infrastructure automation
+- Contributing to open source and sharing what I learn
 
 
 <!-- <div align="center">
@@ -33,123 +33,115 @@
 
 ## Technical Expertise
 
-<details>
-<summary><b style="font-size: 18px;">DevOps & Cloud Infrastructure</b></summary>
+**DevOps & Cloud Infrastructure**
 <br>
-
 <div align="left">
-  <img src="./svg/devops/aws.svg" height="40" alt="AWS" title="Amazon Web Services" />
+  <img src="./assests/icons/devops/aws.svg" height="40" alt="AWS" title="Amazon Web Services" />
   <img width="12" />
-  <img src="./svg/devops/azure.svg" height="40" alt="Azure" title="Microsoft Azure" />
+  <img src="./assests/icons/devops/azure.svg" height="40" alt="Azure" title="Microsoft Azure" />
   <img width="12" />
-  <img src="./svg/devops/docker.svg" height="40" alt="Docker" title="Docker" />
+  <img src="./assests/icons/devops/docker.svg" height="40" alt="Docker" title="Docker" />
   <img width="12" />
-  <img src="./svg/devops/kubernetes.svg" height="40" alt="Kubernetes" title="Kubernetes" />
+  <img src="./assests/icons/devops/kubernetes.svg" height="40" alt="Kubernetes" title="Kubernetes" />
   <img width="12" />
-  <img src="./svg/devops/jenkins.svg" height="40" alt="Jenkins" title="Jenkins CI/CD" />
+  <img src="./assests/icons/devops/jenkins.svg" height="40" alt="Jenkins" title="Jenkins CI/CD" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="./assests/icons/devops/githubactions.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
   <img width="12" />
-  <img src="./svg/devops/git.svg" height="40" alt="Git" title="Git" />
+  <img src="./assests/icons/devops/git.svg" height="40" alt="Git" title="Git" />
   <img width="12" />
-  <img src="./svg/devops/bash.svg" height="40" alt="Bash" title="Bash Scripting" />
+  <img src="./assests/icons/devops/bash.svg" height="40" alt="Bash" title="Bash Scripting" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img src="./assests/icons/devops/linux.svg" height="40" alt="Linux" title="Linux" />
 </div>
 
-**Specializations:** Infrastructure as Code, Container Orchestration, CI/CD Pipelines, Cloud Architecture
-</details>
+<sub>Infrastructure as Code · Container Orchestration · CI/CD Pipelines · Cloud Architecture</sub>
 
-<details>
-<summary><b style="font-size: 18px;">Programming & Development</b></summary>
 <br>
 
+**Programming & Development**
+<br>
 <div align="left">
-  <img src="./svg/programming/python.svg" height="40" alt="Python" title="Python" />
+  <img src="./assests/icons/programming/python.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
-  <img src="./svg/programming/java.svg" height="40" alt="Java" title="Java" />
+  <img src="./assests/icons/programming/java.svg" height="40" alt="Java" title="Java" />
   <img width="12" />
-  <img src="./svg/programming/c++.svg" height="40" alt="C++" title="C++" />
+  <img src="./assests/icons/programming/cplusplus.svg" height="40" alt="C++" title="C++" />
   <img width="12" />
-  <img src="./svg/programming/c.svg" height="40" alt="C" title="C" />
+  <img src="./assests/icons/programming/c.svg" height="40" alt="C" title="C" />
 </div>
 
-**Focus Areas:** Backend Development, System Programming, Automation Scripts, API Development
-</details>
+<sub>Backend Services · Systems Programming · Automation · API Development</sub>
 
-<details>
-<summary><b style="font-size: 18px;">Web Technologies</b></summary>
 <br>
 
+**Web Technologies**
+<br>
 <div align="left">
-  <img src="./svg/web/html.svg" height="40" alt="HTML5" title="HTML5" />
+  <img src="./assests/icons/web/html5.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="./svg/web/css.svg" height="40" alt="CSS3" title="CSS3" />
+  <img src="./assests/icons/web/css3.svg" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="./svg/web/js.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="./assests/icons/web/javascript.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="./svg/web/ts.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="./assests/icons/web/typescript.svg" height="40" alt="TypeScript" title="TypeScript" />
   <img width="12" />
-  <img src="./svg/web/react.svg" height="40" alt="React" title="React" />
+  <img src="./assests/icons/web/react.svg" height="40" alt="React" title="React" />
   <img width="12" />
-  <img src="./svg/web/nodejs.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="./assests/icons/web/nodejs.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" title="TailwindCSS" />
+  <img src="./assests/icons/web/tailwindcss.svg" height="40" alt="TailwindCSS" title="TailwindCSS" />
   <img width="12" />
-  <img src="./svg/web/boostrap.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="./assests/icons/web/bootstrap.svg" height="40" alt="Bootstrap" title="Bootstrap" />
   <img width="12" />
-  <img src="./svg/web/django.svg" height="40" alt="Django" title="Django" />
+  <img src="./assests/icons/web/django.svg" height="40" alt="Django" title="Django" />
 </div>
 
-**Capabilities:** Full-Stack Development, Responsive Design, Modern Frameworks, RESTful APIs
-</details>
+<sub>Full-Stack Development · Responsive UI · RESTful APIs · Modern Frameworks</sub>
 
-<details>
-<summary><b style="font-size: 18px;">Mobile App Development</b></summary>
 <br>
 
+**Mobile Development**
+<br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" title="React Native" />
+  <img src="./assests/icons/mobile/flutter.svg" height="40" alt="Flutter" title="Flutter" />
 </div>
 
-**Platforms:** Cross-Platform Mobile Development (React Native)
-</details>
+<sub>Cross-Platform Mobile Development (Flutter)</sub>
 
-<details>
-<summary><b style="font-size: 18px;">Database Technologies</b></summary>
 <br>
 
+**Database Technologies**
+<br>
 <div align="left">
-  <img src="./svg/database/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="./assests/icons/database/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
-  <img src="./svg/database/mysql.svg" height="40" alt="MySQL" title="MySQL" />
+  <img src="./assests/icons/database/mysql.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="./svg/database/mongodb.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="./assests/icons/database/mongodb.svg" height="40" alt="MongoDB" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />
+  <img src="./assests/icons/database/supabase.svg" height="40" alt="Supabase" title="Supabase" />
 </div>
 
-**Expertise:** Database Design, Query Optimization, Data Modeling, Performance Tuning
-</details>
+<sub>Schema Design · Query Optimization · Data Modeling · Performance Tuning</sub>
 
-<details>
-<summary><b style="font-size: 18px;">Cybersecurity</b></summary>
 <br>
 
+**Cybersecurity**
+<br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img src="./assests/icons/devops/linux.svg" height="40" alt="Linux" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark" title="Wireshark" />
+  <img src="./assests/icons/security/wireshark.svg" height="40" alt="Wireshark" title="Wireshark" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white" height="30" alt="Nmap" title="Nmap" />
+  <img src="./assests/icons/security/nmap.svg" height="30" alt="Nmap" title="Nmap" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite" title="Burp Suite" />
+  <img src="./assests/icons/security/burpsuite.svg" height="40" alt="Burp Suite" title="Burp Suite" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="40" alt="Metasploit" title="Metasploit" />
+  <img src="./assests/icons/security/metasploit.svg" height="40" alt="Metasploit" title="Metasploit" />
 </div>
 
-**Focus Areas:** Network Security, Penetration Testing, Vulnerability Assessment, Security Auditing
-</details>
+<sub>Network Security · Penetration Testing · Vulnerability Assessment · Security Auditing</sub>
 
 <!-- ---
 
@@ -197,17 +189,9 @@
 
 ## Let's Connect
 
-**Professional Networking:**
-- Open to DevOps and Cloud Engineering opportunities
-- Available for technical consulting and mentorship
-- Interested in collaborative open-source projects
-- Reach out for discussions on cloud architecture and automation
+I'm open to **Software, DevOps, and Cloud Engineering** roles  remote-friendly, and open to freelance and consulting work.
 
-**Areas of Interest:**
-- Cloud-native application development
-- Infrastructure security and compliance
-- DevOps culture and best practices
-- Emerging technologies in AI and cybersecurity
+Happy to talk cloud architecture, automation, and building systems that scale. Reach me on [LinkedIn](https://linkedin.com/in/suletete) or by [email](mailto:suleiman.abdulkadir.dev@gmail.com), and see the full body of work on my [portfolio](https://suleops.dev/).
 
 ---
 
